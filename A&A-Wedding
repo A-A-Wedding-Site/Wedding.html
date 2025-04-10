@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ashneel & Amrita's Wedding</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-pink-50 min-h-screen flex items-center justify-center">
+  <div class="text-center p-6 max-w-md mx-auto bg-white shadow-xl rounded-2xl">
+    <h1 class="text-3xl font-bold text-pink-600 mb-4">Welcome to Our Wedding</h1>
+    <p class="text-gray-700 text-lg mb-6">
+      We’re so happy to have you join us for our special day. 💕  
+    </p>
+    <a 
+      href="https://maps.app.goo.gl/your-link-here" 
+      class="inline-block bg-pink-500 text-white px-6 py-3 rounded-full text-lg font-semibold hover:bg-pink-600 transition"
+      target="_blank"
+    >
+      Click Here for Venue & Details
+    </a>
+    <p class="mt-6 text-sm text-gray-500">With love, Ashneel & Amrita</p>
+  </div>
+</body>
+</html>
